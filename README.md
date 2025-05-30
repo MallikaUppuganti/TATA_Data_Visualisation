@@ -3,7 +3,7 @@
 •	Prepared questions for a meeting with client senior leadership\
 •	Created visuals for data analysis to help executives with effective decision making
 
-## Skills Learnt:
+## Skills Used:
 Analysis & Presentation\
 Analytics & Insights\
 Charts & Graphs\

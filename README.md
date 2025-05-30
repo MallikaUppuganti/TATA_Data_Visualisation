@@ -13,8 +13,7 @@ Data Cleanup\
 Data Interpretation\
 Data Visualisation\
 Effective Communication\
-Visual Basics\
-Visualisation
+Visual Basics
 
 ![image](https://github.com/MallikaUppuganti/TATA_Data_Visualisation/blob/main/Task%203/Q1%20Visual.jpg)
 ![image](https://github.com/MallikaUppuganti/TATA_Data_Visualisation/blob/main/Task%203/Q2%20Visual.jpg)

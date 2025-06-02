@@ -33,7 +33,7 @@ Using Power BI , I designed charts to visualize:
 
 Finally, I created a video to present insights clearly to non-technical stakeholders. I explained what the data shows, why it matters and what actions can be taken.
 
-## 📊Visuals
+## 📊Visualizations
 
 ![image](https://github.com/MallikaUppuganti/TATA_Data_Visualisation/blob/main/Task%203/Q1%20Visual.jpg)
 

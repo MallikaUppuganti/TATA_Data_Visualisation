@@ -1,4 +1,5 @@
-# 🏢 Tata Data Visualisation: Empowering Business with Effective Insights
+# 🏢 TATA Data Visualisation 
+### 📈Empowering Business with Effective Insights
 
 ### Tools Used: Excel | Power BI | Visual Capture Device
 ### Focus Areas: Data Cleaning | Visualization | Stakeholder Communication | Business Insights | Data Storytelling

@@ -62,6 +62,9 @@ Finally, I created a video to present insights clearly to non-technical stakehol
 
 * Reinforced skills in data visualization, business acumen, and communication
 
+## ✨ Why This Project Matters
+* This project reflects how I work as a data analyst who understands both the technical and business sides.
 
+* I don’t just build charts — I build context, clarity and confidence for decision-makers.
 
 ### Project by: Mallika Uppuganti

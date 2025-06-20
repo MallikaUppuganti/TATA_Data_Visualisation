@@ -27,7 +27,7 @@ Using Power BI , I designed charts to visualize:
 
   * Customer segmentation and behavior
 
-   * Product category analysis
+  * Product category analysis
 
 **4.** Prepared the Data Story for Stakeholders
 
